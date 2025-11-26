@@ -1,108 +1,77 @@
-# CPSC 100 - Course Syllabus
+# CPSC 319 - Course Syllabus
 
 Department of Computer Science, University of British Columbia
 
-**Winter 2024, Term 2 - CPSC 100 (Section 201) || Computational Thinking (3)**
+**Winter 2025, Term 2 - CPSC 319 (Section 201) || Software Engineering Project (4)**
 
 ## Course Instructor
 
 - Parsa Rajabi
   - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: Wednesdays 1:30-2:30 in ICCS 249; Or, by appointment.
+  - Office Hours: Mondays X:XX-X:XX in ICCS 249; Or, by appointment.
 
 > [!TIP]
-> Sign up for course discussion board using this link: [Ed Discussion](https://edstem.org/us/join/PH2rqB). Make sure to use your UBC email address to sign up.
-
+> Sign up for course slack workspace using this link: [CPSC 319 - Slack](TOOD). Make sure to use your UBC email address to sign up.
 
 Refer to [course communication conventions](#course-communication-conventions) for the best way to reach out to the instructor.
 
-## Lectures
+## Course Format
 
 Delivery Method: In-person
-- **Monday, Wednesday, Friday 3-4 PM - Room DMP 310**
 
-## Labs
+- [Lecture] Mondays, 17:30-18:50 in **Civil and Mechanical Engineering Building (CEME) 1202** 
+- [Project Update Meetings] Wednesdays, 17:30-18:50 in specific group-assigned rooms 
 
-CPSC 100 has the following lab sections. These sessions are designed to be hands-on and interactive, where students will work on labs, projects, and other activities. The labs are only conducted in-person at their designated times.
+Mondays will be dedicated to lectures and in-class activities. Attendance is encouraged and recoreded through clickers. Wednesdays will be dedicated to project update meetings where each team meets with their assigned TA to discuss project progress, challenges, and next steps. Attendance is mandatory for these meetings.
 
-| Section | Time                  | Location  |
-| :-----: | --------------------- | --------- |
-|   L2A   | Wednesday 9:00-10:00  | ICCS X050 |
-|   L2B   | Wednesday 10:00-11:00 | ICCS X050 |
-|   L2C   | Wednesday 11:00-12:00 | ICCS X050 |
-|   L2D   | Wednesday 12:00-13:00 | ICCS X050 |
-|   L2E   | Wednesday 17:00-18:00 | ICCS X050 |
+This course requires significant commitment for both the teaching team and the students. The course is designed to be interactive, with a focus on hands-on learning and practical applications of software engineering concepts. Students are expected to actively engage in group work outside of class time and to collaborate with their peers on semester-long project. A lighter course load is strongly recommended to ensure active participation, high-quality work, and the potential to earn a reference letter or job offer.
 
-There will be no labs the first week of classes (Jan 6-10).
 
 ## Course Description
 
-> Meaning and impact of computational thinking. Solving problems using computational thinking, testing, debugging. How computers work. No prior computing experience required. Not for students with existing credit for or exemption from CPSC 107, CPSC 110 or APSC 160. [3-1-0]
-[UBC Academic Calender - CPSC 100](http://www.cs.ubc.ca/nest/imager/courses.php#hct)
+> The design, implementation, and test of a large software system, using a team approach. [3-0-2]
+[UBC Academic Calender - CPSC 319](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv)
 
-How have computers impacted the world around you, and how do they do it? CPSC 100 (Computational Thinking) covers related topics, including the way that computers have changed animated movies, what businesses can do with your personal information such as your phone number, how the Internet works, and whether artificial intelligence will destroy the earth.
- 
-CPSC 100 is NOT a programming course, though there will be a small amount of programming in a visual language so that you can understand a bit of what makes computers tick.
- 
-CPSC 100 is targeted for first-year students, but is open to all UBC students. You cannot get credit for CPSC 100 if you have credit for CPSC 110.
+You have learned the basic theories, the algorithms and the data structures that underpin computer science. You have written small programs to demonstrate your understanding of these concepts. Now, it is time to put it all together and build a large software system as part of a team. 
+
+This is not a typical computer science course. There are no lectures on how to write code or improve the efficiency of algorithms. Instead, this course will provide an opportunity for you to apply what you have learned in previous courses to a real world software engineering project. The course will guide you through a real software development lifecycle and teach you the skills necessary to work effectively as part of a software development team.
+
+You will be interacting with a real company/client to gather requirements, design, implement, test and present a software solution to their problem. Working in teams and being able to use your technical, communication, and collaboration skills effectively is a key learning outcome of this course. 
 
 ## Pre-requisites (unofficial)
 
-A strong attention to detail, a willingness to learn new problem-solving techniques, and a desire to work collaboratively with others. No prior computing experience is required.
+A strong attention to detail, a willingness to learn new problem-solving techniques, and a desire to work collaboratively with others. 
 
 ## Learning Goals
-At the highest level, this course has three goals. On completing this course, you will be able to:
+Upon completion of this course, students will be able to:
 
-- **[Computational Thinking Building Blocks]** Use a computer to solve problems, which breaks down into 4 smaller goals:
-  - Use abstraction and decomposition to clarify and simplify the critical pieces of a problem;
-  - Choose appropriate models and representations to aid in solving the problem;
-  - Recognize potential shortcomings in a model or solution; and
-  - Explain at a high level how the computer works;
-- **[Computational Thinking Application]** Explain specific algorithms that computers use to create applications of computational thinking (e.g., data mining), and
-- **[Computational Thinking Impact]** Provide and explain examples of how computers impact your life and what this means for you, both in terms of how the computer can add to your life and in things that you have to be careful of, such as privacy and security.
+- Apply software engineering principles to work in a team on a non-trivial project
+- Gain hands-on experience with design and implementation issues
+- Adopt industry standards and use them in the programming project
+- Collect, synthesize, and evaluate information or data from reliable sources
+- Troubleshoot technical problems and propose alternative feasible solutions
+- Communicate technical concepts effectively in writing and orally to diverse audiences including non-technical stakeholders
+- Demonstrate professional and ethical responsibility in a team environment
 
 ## Course Evaluation
 
-|      **Item**      | **Weight** |     **Schedule**      |
-| :----------------: | :--------: | :-------------------: |
-|      Clickers      |     2%     |       In-class        |
-|        Labs        |    10%     |       Thursdays       |
-| Post-class Quizzes |    13%     |        Sundays        |
-|      Midterm       |    20%     |   Fri, Feb 14 at 3p   |
-|   Final Project    |    25%     | [Details](project.md) |
-|     Final Exam     |    30%     |          TBD          |
+The following is a high level breakdown of the course evaluation scheme. A more detailed description of each item will be provided by first week of classes.
 
-Note: the course evaluation is subject to change until Friday, January 10, 2025. After this date, the evaluation will be considered final. Any changes will be communicated to the class during the first week of classes.
+|            **Item**             | **Weight** |
+| :-----------------------------: | :--------: |
+|      Course Participation       |    10%     |
+|       Project Milestones        |    20%     |
+| Minimal Viable Product Delivery |    30%     |
+|     Final Product Delivery      |    40%     |
 
-**Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.**
-
-### iClickers
-
-Your lowest 3 iClicker scores will be automatically dropped — so you can miss up to 3 lectures (e.g. 1 full week) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should contact the teaching team.
-
-### Labs
-
-We expect you to attend your registered lab section on time each week. Many of the labs are dependent on group work, and showing up late will negatively impact other students. If you cannot attend a lab due to illness or other severe circumstances, contact the instructor and provide valid medical or other supporting documentation. 
-
-### Post-class Quizzes
-
-Following each module, there will be a quiz to help ensure you have followed the basic material presented and assess your overall understanding of module content. They serve as a pre-assessment of exam content to help you better prepare.  The quizzes are timed and can only be completed once.  There will be several post-module quizzes throughout the term.
-
-### Exams
-
-If you miss an exam, please contact the instructor as soon as possible. You must contact [UBC Science](https://science.ubc.ca/students/advising) within 48 hours of your missed final exam to apply for a deferred exam. Further information about deferred exams can be found in [UBC Science's Exam FAQ](https://science.ubc.ca/students/advising/exams).
-
-### Project
-
-The project is a group assignment that will be completed throughout the term. The project will be graded based on the quality of the final deliverable, the group's ability to work together, and the individual contributions of each group member. Project details will be provided throughout the first few weeks of the course.
 
 ### Passing Criteria
 
-If only we could give you all an A+ just for participating. Fortunately or unfortunately, we can't. UBC requires that students are assessed on the learning outcomes of the course. To pass this course, you must:
-
-- obtain at least a 50% overall grade
-- and, in addition, achieve a passing grade (>50%) on the final exam
-- and, in addition, achieve a passing grade (>50%) on the course project
+In order to pass the course:
+- Students MUST achieve a minimum of >=50% on the course participation component. 
+- Students MUST achieve a minimum of >=50% on the client feedback component of the final project delivery.
+- Students MUST achieve a minimum of >-50% on the peer evaluation component of the final project delivery.
+- Students MUST be present in-person and participate in the MVP and final product presentations.
 
 Students who fail to meet these requirements will have a final grade of 45% or less.
 
@@ -116,21 +85,14 @@ If you have concerns about your performance, you are encouraged to seek feedback
 
 ## Learning Resources
 
-Students in CPSC 100 have diverse backgrounds and learning needs. Various resources are available to help you explore topics of interest in depth. Many students find that just attending lectures and labs is not enough, and you are strongly advised to use the available resources. Note that you should not take needing to seek extra ways to practice what you've learned as a sign that you're "not good at" the material; it's simply that you need more practice. The people in the class who you see who seem to be having no trouble at all have almost certainly had more practice than you (or they're having trouble and don't show it - or both!). Don't freak out. Ask questions and use the help resources: that's what they're for.
+Students in CPSC 319 have diverse backgrounds and learning needs. Various resources are available to help you explore topics of interest in depth. Many students find that just attending lectures and project update meetings is not enough, and you are strongly advised to use the available resources. Note that you should not take needing to seek extra ways to practice what you've learned as a sign that you're "not good at" the material; it's simply that you need more practice. The people in the class who you see who seem to be having no trouble at all have almost certainly had more practice than you (or they're having trouble and don't show it - or both!). Don't freak out. Ask questions and use the help resources: that's what they're for.
 
 TAs and your instructor have office hours. If you require an appointment, contact us with at least a few days notice. TAs are also available during scheduled lab times. (Note that the TAs must prioritize helping students with the scheduled lab assignment.)
 
-Your classmates are an excellent resource for discussion and peer support. In addition to opportunities to chat before and after class, the discussion board is also available.
+Your classmates are an excellent resource for discussion and peer support. In addition to opportunities to chat before and after class, slack is also available.
 
 > [!TIP]
-> A note about e-mail support: Many course-related questions require two-way discussion, so e-mail is sometimes not the most efficient way to get help. Office hours and the discussion board should be your first resort for rapid assistance. Please limit e-mail to requests of a personal nature—you'll get faster responses on the discussion board!
-
-## General Advice
-
-- If you don't understand something covered in class, ask about it right away. The only silly question is the one that isn't asked. This class is about exploring your interest in computer science, so don't be shy.
-- If you get a mark you do not understand, find out why immediately. Don't wait weeks before asking!
-- The lectures and labs are just the beginning – you are responsible for directing your exploration of the topics in sufficient depth both to satisfy your curiosity and to be prepared for exams that will require you to extend, not just repeat, what you have learned in class. Curious about something? Did you try Google or Wikipedia? The teaching team can introduce you to resources and people – ask!
-- Resist the temptation to engage in non-course-related activities, such as Facebook, e-mail, texting, etc, during class and lab time. If you remain focused during class time, not only will you earn more participation marks, but you will also use your own time more efficiently by not having to go back and learn the material you missed while distracted.
+> A note about e-mail support: Many course-related questions require two-way discussion, so e-mail is sometimes not the most efficient way to get help. Office hours and the discussion board should be your first resort for rapid assistance. Please limit e-mail to requests of a personal nature—you'll get faster responses on the course slack!
 
 ## Importance of Group Work and Participation Policy
 
@@ -148,32 +110,40 @@ Non-contribution or “free riding” is not acceptable in this course. Every st
 
 ## Academic Expectations
 
-In addition to all university rules, regulations, and academic guidelines, the following policies will hold in CPSC 100:
+In addition to all university rules, regulations, and academic guidelines, the following policies will hold in CPSC 319:
 
-- Attendance and **prompt arrival** is expected at all classes and labs. In addition, there will be participation marks for in-class and lab activities.
-- There will be no makeup for the midterm. Students who miss the midterm will receive a grade of zero, unless they have a valid reason for missing the exam and have contacted the instructor in advance with valid supporting documentation.
+- Attendance and **prompt arrival** is expected at all classes and project update meetings. 
+- Bring your development laptop to project update meetings and be prepared to give a live demo of your work every week
+- Be professional in interacting with your instructor, TA’s, teammates, and client.
+- Be prepared before attending meetings.
+- Commit to the team’s goals, communicate honestly with your team, and do your fair share of the work.
+- For this course, it is expected that you will spend at least 9 hours per week on out-of-class preparation.
+  
+## Reference Textbooks
 
-## Course Textbook/Material
+The following textbooks are recommended but not required for this course:
 
-We will read articles, view instructional videos, and read chapters from the following books – all freely available online.
-
-- **[B2B]** Abelson, Hal, Ken Ledeen, and Harry Lewis. 2008. Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion. 1st edition. Upper Saddle River, NJ: Addison-Wesley Professional. [Available for free](http://www.bitsbook.com/excerpts/)
-- **[CSFG]** 'Computer Science Field Guide'. 2020. 19 June 2020. [Available for free](https://www.csfieldguide.org.nz/en/chapters/)
+- Software Engineering, Ian Sommerville, Addison Wesley
+- Design Patterns: Elements of Reusable Object-Oriented Software, Gamma, E., Helm, R., Johnson, R., Vlissides, J.
+- Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck
+- Why Programs Fail: A Guide to Systematic Debugging, Andreas Zeller
+- The Phoenix Project, Gene Kim, Kevin Behr, George Spafford
+- The Unicorn Project, Gene Kim
 
 ## Course Communication Conventions
 
 > [!TIP]
-> Sign up for course discussion board using this link: [Ed Discussion](https://edstem.org/us/join/PH2rqB). Make sure to use your UBC email address to sign up.
+> Sign up for course Slack discussion board using this link: [CPSC 319 Slack](). Make sure to use your UBC email address to sign up.
 
-- For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the [course discussion board - Ed](https://edstem.org/us/join/PH2rqB), which will be checked daily by course staff, and this way the whole class can benefit. 
-- For personal logistics (project, labs, etc.): Post to course staff on the discussion board, Ed.
-- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 100]" in the subject line of any email for a faster response. Emails without this subject line may be missed.
+- For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the [course Slack](), which will be checked daily by course staff, and this way the whole class can benefit. 
+- For personal logistics issues (e.g., extensions, accommodations, etc.): Send an email to your assigned TA and instructor.
+- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 319]" in the subject line of any email for a faster response. Emails without this subject line may be missed.
   - Make sure to include your full name and student number in all correspondence.
   - It is recommended to use your UBC email address for all course-related communication to ensure that your message is not marked as spam.
 
 ### Professionalism
 
-Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line including the course code (CPSC 100), a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision.**
+Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line including the course code (CPSC 319), a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision.**
 
 > [!WARNING]
 > Before sending an email, make sure to review this article on [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
@@ -203,13 +173,11 @@ A more detailed description of academic integrity, including the University’s 
 
 ### Late Deliverables 
 
-All course items (e.g. labs, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Labs can be submitted up to 24 hours after the due date with a 25% penalty (unless explicitly stated otherwise). After 24 hours, the submission will not be accepted and a score of zero will be assigned. 
+All course items have fixed due dates and times. Any submission not received by the deadline is considered late. With the exception of live presentations (such as milestone viva voces, MVP presentations, and final product presentations), assignments may be submitted up to 24 hours after the deadline with a 25% late penalty.
 
-Exams (including post-class quizzes, midterm and final) and course project have a fixed deadline and cannot be submitted late. 
-
-Make-up assessments (including clickers, labs, post-class quizzes, project, exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
+Make-up assessments (including clickers, presentations, viva voces) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor and your assigned TA as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor and TA have heard you.
  
-While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the lab is due to let us know that you could not complete the lab because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the lab, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
+While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the submission is due to let us know that you could not complete the submission because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the submission, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
 
@@ -226,7 +194,7 @@ If you feel a course item has been incorrectly assessed you may request that the
 
 #### Request a Remarking
 
-Requests must include a written letter for the re-marking and be submitted to the course TA/instructor within 5 business days from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email. 
+Requests must include a written letter for the re-marking and be submitted to the course TA/instructor within **5 business days** from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email. 
 
 Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
 
@@ -259,10 +227,8 @@ For immediate mental health support (evenings AND weekends):
 
 ## Privacy
 
-CPSC 100 utilizes Ed Discussion to enhance class discussions and communication. Your personal information is collected and disclosed to Ed Discussion under the authority of section 26(c) of the Freedom of Information and Protection of Privacy Act (FIPPA).
+CPSC 319 utilizes Slack to enhance class discussions and communication. Your personal information is collected and disclosed to Slack under the authority of section 26(c) of the Freedom of Information and Protection of Privacy Act (FIPPA).
 
-To provide you with access to Ed Discussion, UBC must disclose your name, email, and other course-related information to Ed Discussion which operates and stores information outside of Canada. When activating your account you will have option to use an alias (such as your @student.ubc.ca or @ugrad.cs.ubc.ca emails) to help protect your identity.
-
-For more information on how Ed Discussion handles your data, please refer to their [Privacy Policy](https://edstem.org/au/privacy).
+For more information on how Slack handles your data, please refer to their [Privacy Policy](https://slack.com/trust/privacy/privacy-policy).
 
 For questions or concerns about how this information is collected, used, or stored, please contact the instructor.
