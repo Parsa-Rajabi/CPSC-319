@@ -1,8 +1,6 @@
 - [Syllabus](syllabus)
-- [Project](project)
-- [Final Details](final) 
+<!-- - [Project](project) -->
 - [Teaching Team](teaching-team)
-- [Practice Problems](practice/index.html)
 <!-- - [AI Policy](ai-policy) -->
 <!-- - [Course Schedule](schedule) --> 
 <!-- - [Lecture Notes](lecture-notes) -->
