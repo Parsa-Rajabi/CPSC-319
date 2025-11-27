@@ -36,6 +36,7 @@ Projects move through a simple arc; below is a rough timeline for this offering.
 |    Requirements    |           End of Jan            |   Students draft requirements/user stories and validate with you and TA.   |        Review and give feedback quickly.        |
 |  Design milestone  |            Early Feb            |        Teams propose architecture/approach; adjust scope if needed.        |    Respond to design questions and sign-off.    |
 |    MVP delivery    |       Late Feb–Early Mar        |       Core features implemented and demoed; TA keeps teams aligned.        | Give feedback on MVP and priorities for final.  |
+| Product development|            March                | Teams refine and extend the product toward final goals.                    | Stay responsive to async questions; if possible, attend TA check-ins so student inquiries get unblocked quickly. |
 | Final presentation | April 8, 5:30pm (UBC Vancouver) |                Final demo and docs; public course showcase.                |       Attend if possible; share feedback.       |
 |  Project hand-off  |            Mid April            |             Code, docs, and access details transferred to you.             |       Receive hand-off; confirm receipt.        |
 
