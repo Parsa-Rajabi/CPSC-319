@@ -10,9 +10,6 @@ Department of Computer Science, University of British Columbia
   - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
   - Office Hours: Mondays X:XX-X:XX in ICCS 249; Or, by appointment.
 
-> [!TIP]
-> Sign up for course slack workspace using this link: [CPSC 319 - Slack](TOOD). Make sure to use your UBC email address to sign up.
-
 Refer to [course communication conventions](#course-communication-conventions) for the best way to reach out to the instructor.
 
 ## Course Format
@@ -118,7 +115,7 @@ In addition to all university rules, regulations, and academic guidelines, the f
 - Be prepared before attending meetings.
 - Commit to the team’s goals, communicate honestly with your team, and do your fair share of the work.
 - For this course, it is expected that you will spend at least 9 hours per week on out-of-class preparation.
-  
+
 ## Reference Textbooks
 
 The following textbooks are recommended but not required for this course:
