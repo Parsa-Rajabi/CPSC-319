@@ -1,5 +1,5 @@
 - [Syllabus](syllabus)
-<!-- - [Project](project) -->
+- [Project Proposal](project-proposal)
 - [Teaching Team](teaching-team)
 <!-- - [AI Policy](ai-policy) -->
 <!-- - [Course Schedule](schedule) --> 
