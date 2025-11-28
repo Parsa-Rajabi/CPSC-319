@@ -4,11 +4,12 @@ Thanks for thinking about partnering with students in **CPSC 319: Software Engin
 
 This page should give you a pretty good idea of how the course is structured, what kinds of projects work well, and what to expect if your project is selected. If you have any questions after reading this, please reach out to the instructor, **Parsa Rajabi** (prajabi [at] cs.ubc.ca).
 
-Link to submit project proposals: https://ubc.ca1.qualtrics.com/jfe/form/SV_6y65YBT9rxPcNRc
+> Link to submit project proposals: 
+> https://ubc.ca1.qualtrics.com/jfe/form/SV_6y65YBT9rxPcNRc
 
 *Propoals will be reviewed on a rolling basis, however, submissions by **Friday, December 12** will be prioritized for selection. Submissions beyond this date may still be considered if spots remain.*
 
--- 
+---
 
 ## Course Overview
 
