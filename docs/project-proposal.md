@@ -7,7 +7,7 @@ This page should give you a pretty good idea of how the course is structured, wh
 > Link to submit project proposals: 
 > https://ubc.ca1.qualtrics.com/jfe/form/SV_6y65YBT9rxPcNRc
 
-*Propoals will be reviewed on a rolling basis, however, submissions by **Friday, December 12** will be prioritized for selection. Submissions beyond this date may still be considered if spots remain.*
+*Proposals will be reviewed on a rolling basis, however, submissions by **Friday, December 12** will be prioritized for selection. Submissions beyond this date may still be considered if spots remain.*
 
 ---
 
@@ -28,7 +28,7 @@ Your assigned TA will be the central point of contact between you and the studen
 
 We love projects that have a clear problem and can be scoped to a Minimal Viable Product (MVP) in one term. The best fits are achievable by a 4–6 person team in roughly 2 months of focused build time, tied to a real workflow or user problem, and supported by an engaged stakeholder who can give feedback. 
 
-Although the term is 4 months, Janurary is dedicated to team setup and lectures, and April is exam season, so most hands-on building happens in February and March.
+Although the term is 4 months, January is dedicated to team setup and lectures, and April is exam season, so most hands-on building happens in February and March.
 
 Ideally, the project should be challenging enough to stretch students’ skills, but not so complex that they can’t deliver a working prototype. Projects that involve new technologies or domains are welcome, as long as the scope is realistic and the client can provide technical guidance along the way.
 
@@ -38,7 +38,7 @@ Some example project types that have worked well in the past:
 
 - A simple web app to manage registrations, bookings, or events
 - An internal dashboard that unifies data from spreadsheets or other tools
-- An database application to replace spreadsheet-based workflows
+- A database application to replace spreadsheet-based workflows
 - A lightweight proof-of-concept for a larger idea you are considering
 
 If you are unsure, please still submit — we will help scope it.
