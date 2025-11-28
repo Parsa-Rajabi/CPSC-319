@@ -8,6 +8,8 @@ Link to submit project proposals: https://ubc.ca1.qualtrics.com/jfe/form/SV_6y65
 
 *Propoals will be reviewed on a rolling basis, however, submissions by **Friday, December 12** will be prioritized for selection. Submissions beyond this date may still be considered if spots remain.*
 
+-- 
+
 ## Course Overview
 
 **CPSC 319** is a senior undergrad software engineering course that provides students with hands-on experience working on real-world software projects in small teams (4–6 students). Students at this level have typically completed most of their core computer science courses and have a solid foundation in programming, data structures, algorithms, and software design principles. 
