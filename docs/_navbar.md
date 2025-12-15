@@ -6,4 +6,4 @@
 <!-- - [Lecture Notes](lecture-notes) -->
 <!-- - [Assignments & Labs](assignment-lab-details) -->
 <!-- - [Resources](resources) -->
-<!-- - [Feedback](feedback) -->
+- [Feedback](feedback)
