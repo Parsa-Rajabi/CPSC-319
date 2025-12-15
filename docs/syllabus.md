@@ -130,7 +130,7 @@ The following textbooks are recommended but not required for this course:
 ## Course Communication Conventions
 
 > [!TIP]
-> Sign up for course Slack discussion board using this link: [CPSC 319 Slack](). Make sure to use your UBC email address to sign up.
+> Sign up for course Slack discussion board using this link: [CPSC 319 Slack](https://join.slack.com/t/cpsc-319-spring2026/shared_invite/zt-3ll26u0z4-6Jw~KDJGNKYTXG6vCxIwUQ). Make sure to use your UBC email address to sign up.
 
 - For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the [course Slack](), which will be checked daily by course staff, and this way the whole class can benefit. 
 - For personal logistics issues (e.g., extensions, accommodations, etc.): Send an email to your assigned TA and instructor.

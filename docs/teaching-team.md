@@ -7,13 +7,13 @@
 
 ## Teaching Assistants
 
-| **Project** |   **Name**   |       **Email** :fas fa-envelope fa-fw:        | **Office Hours**     :fas fa-house-medical: | **Location** |
-| :---------: | :----------: | :--------------------------------------------: | ------------------------------------------- | ------------ |
-|             | **Kelly** Xi | kellyxi  [at] `DELETEthisTEXT` student.ubc.ca  |                                             |              |
-|             | **Liz** Cho  | yebincho  [at] `DELETEthisTEXT` student.ubc.ca |                                             |              |
-|             |     TBA      |   TBA  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
-|             |     TBA      |   TBA  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
-|             |     TBA      |   TBA  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
+| **Project** |           **Name**            |         **Email** :fas fa-envelope fa-fw:          | **Office Hours**     :fas fa-house-medical: | **Location** |
+| :---------: | :---------------------------: | :------------------------------------------------: | ------------------------------------------- | ------------ |
+|             |         **Kelly** Xi          | kellyxi  [at] `DELETEthisTEXT` students.cs.ubc.ca  |                                             |              |
+|             |          **Liz** Cho          |   yebin12  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
+|             |         **Luna** Peck         |     lunapeck  [at] `DELETEthisTEXT` cs.ubc.ca      |                                             |              |
+|             | **Mohammad Mahdi** Abootorabi | mahdi.abootorabi  [at] `DELETEthisTEXT` ece.ubc.ca |                                             |              |
+|             |       **Stash** Currie        |   stashubc  [at] `DELETEthisTEXT` student.ubc.ca   |                                             |              |
 
 
 ## Professionalism 
