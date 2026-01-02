@@ -1,18 +1,8 @@
 #  Project Details
 
-> [!NOTE]
-> This page outlines how the course project works and what is expected of you throughout the semester. Please read it carefully and return to it as needed.
+This page outlines how the course project works and what is expected of you throughout the semester. Please read it carefully and reach out to the teaching team if you have any questions.
 
-**At a glance**
-- This course is centered on a **semester-long, real-world project** with an external client
-- The course is **project-based**, not assignment- or exam-driven
-- All work is completed in **groups**, there are no individual project options
-- Groups are formed by the teaching team and remain fixed
-- Weekly **in-person Project Update Meetings (PUMs)** are part of the course structure
-
----
-
-## Project Objectives
+## Objective
 
 This course is built around a real-world software project developed in collaboration with an external client. Rather than completing a series of disconnected assignments, you will work with a team over the semester to design, build, test, and refine a software solution that responds to real constraints and stakeholder needs.
 
