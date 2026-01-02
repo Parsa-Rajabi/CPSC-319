@@ -8,7 +8,7 @@ Department of Computer Science, University of British Columbia
 
 - Parsa Rajabi
   - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: Mondays X:XX-X:XX in ICCS 249; Or, by appointment.
+  - Office Hours: Mondays X:XX-X:XX in ICCS 255; Or, by appointment.
 
 Refer to [course communication conventions](#course-communication-conventions) for the best way to reach out to the instructor.
 
@@ -52,7 +52,7 @@ Upon completion of this course, students will be able to:
 
 ## Course Evaluation
 
-The following is a high level breakdown of the course evaluation scheme. A more detailed description of each item will be provided by first week of classes.
+The following is a high level breakdown of the course evaluation scheme. A more detailed description of each item will be provided in class.
 
 |            **Item**             | **Weight** |
 | :-----------------------------: | :--------: |
@@ -65,7 +65,7 @@ The following is a high level breakdown of the course evaluation scheme. A more 
 ### Passing Criteria
 
 In order to pass the course:
-- Students MUST achieve a minimum of >=50% on the course participation component. 
+- Students MUST achieve a minimum of >=75% on the course participation component. 
 - Students MUST achieve a minimum of >=50% on the client feedback component of the final project delivery.
 - Students MUST achieve a minimum of >-50% on the peer evaluation component of the final project delivery.
 - Students MUST be present in-person and participate in the MVP and final product presentations.
@@ -80,9 +80,58 @@ Students are expected to meet the academic requirements of the course as outline
 
 If you have concerns about your performance, you are encouraged to seek feedback early and make use of available resources, such as office hours and course support services, to address any challenges proactively.
 
+## Attendance Policy
+
+This course is designed to be **highly interactive and hands-on**, reflecting how software engineering work often happens in real-world, team-based environments. Learning in this course depends not only on completing deliverables, but also on **showing up, engaging, and collaborating** with your peers and teaching team.
+
+Attendance and participation are therefore important components of your success in the course. At the same time, we recognize that students balance many responsibilities and that unexpected situations can arise. The policies below are designed to offer **built-in flexibility**, while still maintaining fairness and accountability.
+
+### Lecture Attendance & iClicker Participation
+
+- Each student may miss **one (1) lecture** during the semester **without penalty**.
+- This is implemented through iClicker participation:
+  - If you achieve **at least 90% participation** across all remaining iClicker questions, you will receive full marks for the lecture attendance component.
+  - Example: If the total iClicker score is 200 points and you earn 180 points (90%), you receive full credit.
+- You do not need to notify the teaching team if you miss a lecture.
+
+### Project Update Meeting (PUM) Attendance
+
+Project Update Meetings are a key space for collaboration, feedback, and progress tracking. To support flexibility:
+
+- Each student may miss **one (1) PUM** during the semester **without penalty**, as long as they attend **at least 90%** of their remaining PUMs.
+- Each student is also granted **one (1) remote attendance token** for a PUM:
+  - Remote attendance must be **live**, with **camera on**.
+  - This token is intended primarily for situations such as illness, to reduce the spread of infection.
+  - This is a **one-time option** per students, regardless of the reason for remote attendance.
+
+To use either a PUM absence or remote attendance token, students must:
+
+- Contact their **assigned TA** and CC all group members via email at least **8 hours before** the scheduled PUM.
+- Failure to notify the TA and group members will result in the absence being counted as **unexcused**.
+
+- Absence and remote attendance tokens **cannot be used** for PUMs that include:
+  - Viva voce presentations
+  - Client demo sessions
+  - Peer testing sessions
+  - MVP or final product presentations
+- These sessions require **all group members to attend in person**.
+- At most **50% of a group** may attend a PUM remotely at the same time  
+  (for example, the entire group may not use the remote token simultaneously).
+
+> [!WARNING]
+> Students **must achieve at least 75%** in the **course participation component** in order to pass the course. Students who do not meet this requirement will receive a final grade of 45% or less, regardless of their performance on other course components.
+
+## A Note on Responsibility and Professionalism
+
+These policies are intended to support you when unexpected circumstances arise, such as illness or emergencies. They are not meant to be used casually. Using flexibility options responsibly helps ensure fairness for everyone and supports a collaborative, professional learning environment.
+
+If you anticipate ongoing challenges that may affect your attendance, please reach out to the teaching team early so we can discuss appropriate supports.
+
 ## Learning Resources
 
-Students in CPSC 319 have diverse backgrounds and learning needs. Various resources are available to help you explore topics of interest in depth. Many students find that just attending lectures and project update meetings is not enough, and you are strongly advised to use the available resources. Note that you should not take needing to seek extra ways to practice what you've learned as a sign that you're "not good at" the material; it's simply that you need more practice. The people in the class who you see who seem to be having no trouble at all have almost certainly had more practice than you (or they're having trouble and don't show it - or both!). Don't freak out. Ask questions and use the help resources: that's what they're for.
+Students in CPSC 319 have diverse backgrounds and learning needs. Various resources are available to help you explore topics of interest in depth. Many students find that just attending lectures and project update meetings is not enough, and you are strongly advised to use the available resources. Lecture materials are there to guide your learning but not to provide exhaustive coverage of the topics. In most cases, the lecture materials will introduce concepts and provide a framework for understanding, but you will need to seek additional resources to fully grasp the material.
+
+Note that you should not take needing to seek extra ways to practice what you've learned as a sign that you're "not good at" the material; it's simply that you need more practice. The people in the class who you see who seem to be having no trouble at all have almost certainly had more practice than you (or they're having trouble and don't show it - or both!). Don't freak out. Ask questions and use the help resources: that's what they're for.
 
 TAs and your instructor have office hours. If you require an appointment, contact us with at least a few days notice. TAs are also available during scheduled lab times. (Note that the TAs must prioritize helping students with the scheduled lab assignment.)
 
@@ -138,15 +187,30 @@ The following textbooks are recommended but not required for this course:
   - Make sure to include your full name and student number in all correspondence.
   - It is recommended to use your UBC email address for all course-related communication to ensure that your message is not marked as spam.
 
-### Professionalism
+### Code of Conduct and Professionalism
 
 Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line including the course code (CPSC 319), a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision.**
+
+By remaining enrolled in this course, students agree to uphold these expectations of the course [code of conduct](code-of-conduct.md).
 
 > [!WARNING]
 > Before sending an email, make sure to review this article on [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
 
-> Repeated unprofessional behavior will result in grade deduction from your final grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first official warning.
+> Repeated unprofessional behavior will result in grade deduction from your final overall grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first official warning.
 
+### Artificial Intelligence (AI) Use Policy
+
+A course-specific AI use policy will be drafted based on an in-class activity during the first week of classes and shared with all students prior to the add/drop deadline.  
+
+### Extreme Weather - Course Policy
+
+UBC’s Vancouver campus experiences a unique micro-climate that can differ significantly from surrounding areas. Weather conditions can change quickly, and it’s important to be prepared for all types of extreme weather. 
+
+In the event of extreme weather conditions, we will follow [UBC’s official guidelines for campus closures and safety](https://srs.ubc.ca/emergency/hazards-of-concern/extreme-weather/). If the campus is closed due to extreme weather, all in-person classes and meetings will be canceled, and alternative arrangements will be communicated promptly.
+
+In rare cases where the campus remains open but weather conditions are severe, students are encouraged to prioritize their safety and well-being. As a class, we will work together to accommodate any challenges that arise due to extreme weather, including moving class and meetings online if necessary. 
+
+Unless stated by the university, department, or instructor, all classes and meetings will proceed as scheduled. Students are expected to monitor course communication channels (email, slack , etc.) for updates regarding class status during extreme weather events.
 
 ---
 ## UBC and Course Policies
