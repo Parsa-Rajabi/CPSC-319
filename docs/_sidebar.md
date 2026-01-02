@@ -1,11 +1,11 @@
 - [Syllabus](syllabus)
-- [Project Proposal](project-proposal)
+- [Project Details](project)
+- [Project Overview](projects/overview)
 - [Teaching Team](teaching-team)
 <!-- - [AI Policy](ai-policy) -->
 <!-- - [Course Schedule](schedule) --> 
 <!-- - [Lecture Notes](lecture-notes) -->
 <!-- - [Assignments & Labs](assignment-lab-details) -->
-<!-- - [Project](project) -->
 <!-- - [Resources](resources) -->
 - [Feedback](feedback)
 <!-- - **LMS Links**
