@@ -101,23 +101,23 @@ The following deliverables are required. Group formation itself does not have a 
 
 <div class="accordion">
 
-<summary><b>Group Contract (January 22, 2026)</b></summary>
 <details>
+<summary><b>Group Contract (January 22, 2026)</b></summary>
 The group contract describes how your team will work together for the remainder of the semester. It includes role assignments, communication norms, approaches to conflict resolution, and shared expectations.
 </details>
 
-<summary><b>Project Requirements Document (January 29, 2026)</b></summary>
 <details>
+<summary><b>Project Requirements Document (January 29, 2026)</b></summary>
 This document defines the problem being addressed and the goals of the project. It includes functional and non-functional requirements, assumptions, constraints, and success criteria, and serves as a shared reference for the team, TA, and client.
 </details>
 
-<summary><b>Project Design Document (February 5, 2026)</b></summary>
 <details>
-The design document outlines the proposed technical solution. It should describe system architecture, major components, data flows, and key technology decisions, and explain how the design supports the project requirements.
+<summary><b>Project Design Document (February 5, 2026)</b></summary>
+The design document outlines the proposed technical solution. It should describe system UI/UX, architecture, major components, data flows, and key technology decisions, and explain how the design supports the project requirements.
 </details>
 
-<summary><b>Project Test Plan (February 26, 2026)</b></summary>
 <details>
+<summary><b>Project Test Plan (February 26, 2026)</b></summary>
 The test plan explains how your team will evaluate and validate the system. It includes testing objectives, types of tests, responsibilities, and criteria for determining whether requirements have been met.
 </details>
 </div>
