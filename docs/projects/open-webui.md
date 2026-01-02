@@ -3,43 +3,24 @@
 ## About the organization
 Open WebUI is a self-hosted AI platform that provides a web-based workspace for interacting with large language models and integrating AI into internal workflows. The platform emphasizes privacy, offline or controlled deployments, and flexibility, supporting multiple LLM backends such as Ollama and OpenAI-compatible APIs.
 
-Open WebUI focuses on enabling individuals and organizations to run, customize, and extend AI systems without being locked into proprietary ecosystems or opaque cloud services. The project has achieved significant real-world adoption, with over 118,000 GitHub stars, more than 260 million downloads, and a community exceeding 280,000 users.
+https://openwebui.com/
 
 ## About the project
-This project explores the design and implementation of a unified platform for managing and exposing multiple AI-ready knowledge bases within an organization. Rather than treating all documents uniformly, the system allows different knowledge bases to be optimized for different document types, sensitivities, and use cases.
+Many organizations store large volumes of internal documents such as legal contracts, policies, financial reports, technical documentation, project updates, and meeting notes. While this information contains valuable institutional knowledge, it is often difficult to search, connect, or use effectively in everyday work.
 
-The project is motivated by real-world challenges encountered when applying LLMs to large, heterogeneous collections of internal documents such as legal contracts, financial reports, technical documentation, and project artifacts.
+As interest in using large language models grows, organizations want to apply AI to their internal data. However, simply connecting all documents to an AI system does not work well. Different document types have different structures, accuracy requirements, update frequencies, and privacy concerns. Treating everything the same can lead to unreliable answers, hallucinations, and compliance risks.
 
-## Project goals
-- Enable creation and management of multiple independent knowledge bases  
-- Support different document processing strategies per knowledge base  
-- Expose knowledge bases as tools usable by LLMs  
-- Design the system to be extensible for future AI workflows and integrations  
+This project explores how to design a flexible web application that supports multiple AI ready knowledge bases within a single system. Instead of relying on a one size fits all approach, the goal is to handle different types of documents in ways that best suit their characteristics. Students will consider how design choices around document preparation, updates, access control, and reasoning affect the reliability and usefulness of AI systems in real organizational settings.
 
 ## Intended users
-- **Knowledge managers** who upload files, organize content, and manage knowledge bases  
-- **Everyday users** who query AI assistants and expect accurate, well-sourced answers  
-- **Power users** who experiment with chunking, embeddings, and retrieval strategies  
-- **Integrators and developers** who connect knowledge bases to applications or LLMs via APIs  
+- Knowledge managers who curate and maintain internal document collections
+- Everday users who want to query and interact with organizational knowledge using AI tools
+- Power users who build AI workflows and applications on top of knowledge bases
+- Integrator/developers who connect knowledge bases to LLMs and external systems
 
-## Key features or deliverables
-- Web server application for file upload and knowledge base management  
-- Support for multiple knowledge bases with independent configurations  
-- Metadata tagging and document organization  
-- Configurable processing pipelines (chunking, embeddings, indexing)  
-- Exposure of knowledge bases through external tool interfaces for LLMs  
-
-## Constraints and considerations
-- Different document types require different handling strategies  
-- RAG alone is not sufficient for all use cases  
-- The system must support access control, privacy, and auditability  
-- Updates, deletions, and versioning of documents must be considered  
-
-## Technology
-- Web server application  
-- LLM integration via OpenAPI tool servers  
-- Optional support for Model Context Protocol (MCP)  
-- Vector, relational, or hybrid storage approaches (to be explored)  
-
-## Timeline and availability
-The project is intentionally open-ended and research-oriented. Students are expected to research, design, experiment, and iterate throughout the course, comparing approaches and reflecting on trade-offs.
+## Required Technology
+- Web server application with user authentication (Open WebUI internal auth API)
+  - Upload, manage, and categorize multiple document collections
+- [OpenAPI Tool Server](https://github.com/open-webui/openapi-servers)
+- Model Context Protocal (MCP) for LLM integration
+- Vector, relational, or hybrid storage approaches (to be explored)
