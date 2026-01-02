@@ -8,7 +8,7 @@ A case management system to help social workers at Aunt Leah's Place efficiently
 
 Aunt Leahs Place is a nonprofit organization that supports youth and families.
 
-[Learn more →](./aunt-leahs-place.md)
+→ [More details](./aunt-leahs-place.md)
 
 ## Surrey Food Bank Appointment and Registration System
 
@@ -16,8 +16,7 @@ An appointment management and client registration system to streamline operation
 
 Surrey Food Bank provides food assistance services to individuals and families in the community.
 
-[Learn more →](./surrey-food-bank.md)
-
+→ [More details](./surrey-food-bank.md)
 
 ## Feathers JS v6
 
@@ -25,7 +24,7 @@ The next major release of FeathersJS (v6) aims to refocus on the core strengths 
 
 Feathers Cloud Inc. maintains FeathersJS, an open-source full-stack framework with a large and active developer community.
 
-[Learn more →](./feathers-cloud-inc.md)
+→ [More details](./feathers-cloud-inc.md)
 
 ## Benevity Enterprise AI Agents for Social Impact
 
@@ -33,7 +32,7 @@ An exploratory research and development project to design and build enterprise-g
 
 Benevity is a Calgary-based software company that provides a corporate purpose platform supporting corporate social responsibility initiatives.
 
-[Learn more →](./benevity.md)
+→ [More details](./benevity.md)
 
 ## Open WebUI Knowledge Base Platform
 
@@ -41,6 +40,6 @@ A knowledge base platform built on Open WebUI to facilitate information sharing 
 
 Open WebUI is a self-hosted AI platform that provides a web-based workspace for interacting with large language models and integrating AI into internal workflows. 
 
-[Learn more →](./open-webui.md)
+→ [More details](./open-webui.md)
 
 
