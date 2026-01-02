@@ -15,8 +15,22 @@ body .markdown-section {
     font-size: 16px;
 }
 
+/* Fix: <strong> text inside Docsify alert/callout blocks rendering as white */
+.markdown-section blockquote strong,
+.markdown-section blockquote b {
+    color: inherit !important;
+}
 
-/* Link colors to match SFU branding visual styling (uncomment to use) */
+/* Some alert plugins wrap content in an .alert/.callout container */
+.markdown-section .alert strong,
+.markdown-section .alert b,
+.markdown-section .callout strong,
+.markdown-section .callout b,
+.markdown-section .markdown-alert strong,
+.markdown-section .markdown-alert b {
+    color: inherit !important;
+}
+
 
 :root {
     /* UBC brand colors: primary blue and supporting accents */
@@ -53,8 +67,6 @@ body .markdown-section {
     --pagination-title-color: #002145!important;
 }
 
-
-/* Dark mode colours to match SFU branding visual styling for use with light + dark theme (uncomment to use) */
 
 @media (prefers-color-scheme: dark) {
 :root {
