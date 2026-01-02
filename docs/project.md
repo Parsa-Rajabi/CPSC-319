@@ -16,7 +16,7 @@
 
 This course is built around a real-world software project developed in collaboration with an external client. Rather than completing a series of disconnected assignments, you will work with a team over the semester to design, build, test, and refine a software solution that responds to real constraints and stakeholder needs.
 
-> [!IMPORTANT]
+> [!NOTE]
 > This is a **project-based course**. Your learning will come from sustained collaboration, iterative development, and engagement with both your team and your client.
 
 All students complete the course project in groups. There are **no individual or solo project options**, as collaboration is a core learning objective of the course.
@@ -136,7 +136,7 @@ PUMs provide a structured space to:
 - Participate in short viva voce style check-ins
 - Identify and address issues early
 
-> [!IMPORTANT]
+> [!NOTE]
 > In-person attendance is required for all group members at every PUM.
 
 To support flexibility while maintaining accountability, each student may:
