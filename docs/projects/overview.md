@@ -1,4 +1,4 @@
-# CPSC 319 — Project Overviews
+# List of Projects
 
 This page lists project proposals submitted by industry and community partners for CPSC 319. Each project is sponsored by an external organization and addresses a real-world problem or opportunity. 
 

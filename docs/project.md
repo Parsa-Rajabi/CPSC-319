@@ -1,4 +1,4 @@
-# Course Project Overview
+#  Project Details
 
 > [!NOTE]
 > This page outlines how the course project works and what is expected of you throughout the semester. Please read it carefully and return to it as needed.
@@ -12,7 +12,7 @@
 
 ---
 
-## Course Project Objectives
+## Project Objectives
 
 This course is built around a real-world software project developed in collaboration with an external client. Rather than completing a series of disconnected assignments, you will work with a team over the semester to design, build, test, and refine a software solution that responds to real constraints and stakeholder needs.
 
@@ -99,6 +99,8 @@ Client meetings are scheduled based on **client and TA availability**. Students 
 
 The following deliverables are required. Group formation itself does not have a submission.
 
+<div class="accordion">
+
 <summary><b>Group Contract (January 22, 2026)</b></summary>
 <details>
 The group contract describes how your team will work together for the remainder of the semester. It includes role assignments, communication norms, approaches to conflict resolution, and shared expectations.
@@ -118,8 +120,7 @@ The design document outlines the proposed technical solution. It should describe
 <details>
 The test plan explains how your team will evaluate and validate the system. It includes testing objectives, types of tests, responsibilities, and criteria for determining whether requirements have been met.
 </details>
-
----
+</div>
 
 ## Project Update Meetings (PUM)
 
