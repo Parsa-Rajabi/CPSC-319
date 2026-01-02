@@ -1,4 +1,5 @@
 - [Syllabus](syllabus)
+- [Code of Conduct](code-of-conduct)
 - [Project Details](project)
 - [List of Projects](projects/overview)
 - [Teaching Team](teaching-team)
