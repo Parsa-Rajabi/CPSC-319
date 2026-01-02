@@ -228,7 +228,7 @@ A more detailed description of academic integrity, including the University’s 
 
 ### Course Waitlist
 
-- Course waitlists are being handled centrally by the Computer Science department. Go [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists) for more information. Students who attend labs will be given waitlist priority.
+- Course waitlists are being handled centrally by the Computer Science department. Go [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists) for more information. 
 - If you do not plan to take the course, please remove yourself from the lecture or waitlist, so others may get in.
 - Emails to the instructor/TAs about waitlist position will not be answered.
 
