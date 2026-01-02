@@ -97,7 +97,7 @@ Client meetings are scheduled based on **client and TA availability**. Students 
 - **Jan 19**: Groups finalized  
 - **Jan 22 – Feb 26**: Core project deliverables  
 
-The following deliverables are required. Group formation itself does not have a submission.
+The following deliverables are required throughout the semester to support structured progress and reflection.
 
 <div class="accordion">
 
