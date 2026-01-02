@@ -1,7 +1,7 @@
 - [Syllabus](syllabus)
 - [Code of Conduct](code-of-conduct)
 - [Project Details](project)
-- [List of Projects](projects/overview)
+- [List of Projects](project-list)
 - [Teaching Team](teaching-team)
 <!-- - [AI Policy](ai-policy) -->
 <!-- - [Course Schedule](schedule) --> 
