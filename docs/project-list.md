@@ -24,7 +24,7 @@ The next major release of FeathersJS (v6) aims to refocus on the core strengths 
 
 Feathers Cloud Inc. maintains FeathersJS, an open-source full-stack framework with a large and active developer community.
 
-→ [More details](projects/feathers-cloud-inc.md)
+→ [More details](projects/feathers-cloud.md)
 
 ## Benevity Enterprise AI Agents for Social Impact
 
