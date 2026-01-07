@@ -26,4 +26,4 @@ In situations where data privacy or ethical concerns arise, students should cons
 
 Course flexibility exists to support students when unexpected situations arise and must be used responsibly and in good faith. Students are responsible for understanding and following this Code of Conduct and all related course policies.
 
-Failure to meet these expectations may result in warnings, participation or grade penalties, impacts on peer evaluations, or referral to departmental or university processes, depending on the nature and severity of the issue.
+Failure to meet these expectations may result in warnings, participation or grade penalties, impacts on peer evaluations, or referral to departmental or university processes, depending on the nature and severity of the issue. In serious cases (e.g., harassment of any kind), this will include academic probation or dismissal from the course.
