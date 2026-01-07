@@ -242,6 +242,14 @@ While "life happens," poor planning by you does not count. And definitely do not
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
 
+### Academic Concessions
+
+UBC Faculty of Science recognizes that experiencing a challenging emergency or unanticipated event is impactful on a student’s ability to fulfill close in time academic commitments. In such circumstances, we want to ensure that you are well connected to support resources and to help you navigate your academic options.
+
+If you experience an emergency or unanticipated event that is impacting your ability to meet academic commitments, please refer to the [Science Academic Concessions Process](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions/) for guidance on how to proceed. This resource provides information on the types of support available, the process for requesting concessions, and the documentation required.
+
+For in-term concessions, please complete this [Student Declaration of Academic Concession Form](assets/academic-concession.pdf) and submit it via email alongside any supporting documentation. 
+
 ### Remarking Policy
 
 As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. Regrade requests are not an avenue for you to argue or debate about the grading scheme. Regrade requests are meant as a way for you to let us know about situations where the grading scheme may not have been correctly applied to your work.
