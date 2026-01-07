@@ -248,7 +248,7 @@ UBC Faculty of Science recognizes that experiencing a challenging emergency or u
 
 If you experience an emergency or unanticipated event that is impacting your ability to meet academic commitments, please refer to the [Science Academic Concessions Process](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions/) for guidance on how to proceed. This resource provides information on the types of support available, the process for requesting concessions, and the documentation required.
 
-For in-term concessions, please complete this [Student Declaration of Academic Concession Form](assets/academic-concession.pdf) and submit it via email alongside any supporting documentation. 
+For in-term concessions, please complete this [Student Declaration of Academic Concession Form](/assets/academic-concession.pdf) and submit it via email alongside any supporting documentation. 
 
 ### Remarking Policy
 
