@@ -9,9 +9,10 @@
 
 | **Project** |       **Name**       |         **Email** :fas fa-envelope fa-fw:          | **Office Hours**     :fas fa-house-medical: | **Location** |
 | :---------: | :------------------: | :------------------------------------------------: | ------------------------------------------- | ------------ |
-|             |     **Kelly** Xi     | kellyxi  [at] `DELETEthisTEXT` students.cs.ubc.ca  |                                             |              |
+|             |     **Kelly** Xi     |   kellyxi  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
 |             |     **Liz** Cho      |   yebin12  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
 |             | **Mahdi** Abootorabi | mahdi.abootorabi  [at] `DELETEthisTEXT` ece.ubc.ca |                                             |              |
+|             |  **Mohsen** Salehi   |     msalehi  [at] `DELETEthisTEXT` ece.ubc.ca      |                                             |              |
 |             |   **Stash** Currie   |   stashubc  [at] `DELETEthisTEXT` student.ubc.ca   |                                             |              |
 
 
