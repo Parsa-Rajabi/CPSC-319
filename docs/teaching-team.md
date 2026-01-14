@@ -3,7 +3,7 @@
 ## Instructor
 |     **Name**     |    **Email** :fas fa-envelope fa-fw:    | **Office Hours**     :fas fa-house-medical: |     **Location**     |
 | :--------------: | :-------------------------------------: | :-----------------------------------------: | :------------------: |
-| **Parsa** Rajabi | prajabi [at] `DELETEthisTEXT` cs.ubc.ca |     Mondays 7-7:30 + by appointment      | ICCS 255 + CEME 1202 |
+| **Parsa** Rajabi | prajabi [at] `DELETEthisTEXT` cs.ubc.ca |       Mondays 7-7:30 + by appointment       | ICCS 255 + CEME 1202 |
 
 ## Teaching Assistants
 
@@ -15,6 +15,7 @@
 | [Surrey Food Bank](projects/surrey-food-bank.md) |  **Mohsen** Salehi   |     msalehi  [at] `DELETEthisTEXT` ece.ubc.ca      |              Wednesdays; 4-5pm              |   ICCS 202   |
 |    [Feathers JS](projects/feathers-cloud.md)     |   **Stash** Currie   |   stashubc  [at] `DELETEthisTEXT` student.ubc.ca   |              Thursdays; 4-5pm               |   ICCS 204   |
 
+There will be no office hours during Reading Break February 16-20, 2026.
 
 ## Professionalism 
 
