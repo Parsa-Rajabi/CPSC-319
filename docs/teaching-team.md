@@ -1,19 +1,19 @@
 # Teaching Team
 
 ## Instructor
-|     **Name**     |    **Email** :fas fa-envelope fa-fw:    | **Office Hours**     :fas fa-house-medical: | **Location** |
-| :--------------: | :-------------------------------------: | :-----------------------------------------: | :----------: |
-| **Parsa** Rajabi | prajabi [at] `DELETEthisTEXT` cs.ubc.ca |            Mondays X-X             |   ICCS 249   |
+|     **Name**     |    **Email** :fas fa-envelope fa-fw:    | **Office Hours**     :fas fa-house-medical: |     **Location**     |
+| :--------------: | :-------------------------------------: | :-----------------------------------------: | :------------------: |
+| **Parsa** Rajabi | prajabi [at] `DELETEthisTEXT` cs.ubc.ca |     Mondays 7-7:30 + by appointment      | ICCS 255 + CEME 1202 |
 
 ## Teaching Assistants
 
-| **Project** |       **Name**       |         **Email** :fas fa-envelope fa-fw:          | **Office Hours**     :fas fa-house-medical: | **Location** |
-| :---------: | :------------------: | :------------------------------------------------: | ------------------------------------------- | ------------ |
-|             |     **Kelly** Xi     |   kellyxi  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
-|             |     **Liz** Cho      |   yebin12  [at] `DELETEthisTEXT` student.ubc.ca    |                                             |              |
-|             | **Mahdi** Abootorabi | mahdi.abootorabi  [at] `DELETEthisTEXT` ece.ubc.ca |                                             |              |
-|             |  **Mohsen** Salehi   |     msalehi  [at] `DELETEthisTEXT` ece.ubc.ca      |                                             |              |
-|             |   **Stash** Currie   |   stashubc  [at] `DELETEthisTEXT` student.ubc.ca   |                                             |              |
+|                   **Project**                    |       **Name**       |         **Email** :fas fa-envelope fa-fw:          | **Office Hours**     :fas fa-house-medical: | **Location** |
+| :----------------------------------------------: | :------------------: | :------------------------------------------------: | :-----------------------------------------: | :----------: |
+|       [Open WebUI](projects/open-webui.md)       |     **Kelly** Xi     |   kellyxi  [at] `DELETEthisTEXT` student.ubc.ca    |               Tuesdays; 2-3pm               |   ICCS 238   |
+|    [Aunt Leahs](projects/aunt-leahs-place.md)    |     **Liz** Cho      |   yebin12  [at] `DELETEthisTEXT` student.ubc.ca    |           Mondays; 11:45-12:45pm            |   ICCS 238   |
+|         [Benevity](projects/benevity.md)         | **Mahdi** Abootorabi | mahdi.abootorabi  [at] `DELETEthisTEXT` ece.ubc.ca |               Tuesdays; 4-5pm               |   ICCS 204   |
+| [Surrey Food Bank](projects/surrey-food-bank.md) |  **Mohsen** Salehi   |     msalehi  [at] `DELETEthisTEXT` ece.ubc.ca      |              Wednesdays; 4-5pm              |   ICCS 202   |
+|    [Feathers JS](projects/feathers-cloud.md)     |   **Stash** Currie   |   stashubc  [at] `DELETEthisTEXT` student.ubc.ca   |              Thursdays; 4-5pm               |   ICCS 204   |
 
 
 ## Professionalism 
