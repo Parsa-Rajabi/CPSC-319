@@ -116,19 +116,55 @@ The test plan explains how your team will evaluate and validate the system. It i
 
 Starting **Wednesday, January 21, 2026**, all groups will attend a weekly **Project Update Meeting (PUM)** with their assigned Project Owner (TA).
 
-**Meeting details**
-- **When:** Every Wednesday, 5:30pm–7:00pm  
-- **Where:** In person, ICICS building (assigned meeting room)
+Each group will participate in **weekly Project Update Meetings (PUMs)** with their assigned TA. On average, each group should expect **20–30 minutes** per PUM. In lighter weeks, meetings may wrap up closer to 20 minutes, while heavier weeks may use the full 30 minutes. The **ideal target is 25 minutes**, which allows a **5-minute buffer** between groups. This buffer helps account for transitions between teams and gives the TA a short break to reset.
 
-PUMs provide a structured space to:
+
+|       TA & Project        | Location & Capacity | Team A Timeslot | Team B   timeslot | Team C timeslot |
+| :-----------------------: | :-----------------: | --------------- | ----------------- | :-------------: |
+|     Mahdi - Benevity      | ICCS 146 (Cap: 20)  | 5:30 - 6:00 pm  | 6:00 - 6:30 pm    | 6:30 - 7:00 pm  |
+| Mohsen - Surrey Food Bank | ICCS 202 (Cap: 15)  | 5:30 - 6:00 pm  | 6:00 - 6:30 pm    | 6:30 - 7:00 pm  |
+|      Liz - Aunt Leah      | ICCS 104 (Cap: 18)  | 5:30 - 6:00 pm  | 6:00 - 6:30 pm    | 6:30 - 7:00 pm  |
+|    Kelly - Open WebUI     | ICCS 204 (Cap: 10)  | 5:30 - 6:00 pm  | 6:00 - 6:30 pm    |        -        |
+|    Stash - FeathersJS     | ICCS 238 (Cap: 16)  | 5:30 - 6:00 pm  | 6:00 - 6:30 pm    | 6:30 - 7:00 pm  |
+
+### Arriving Prepared
+All groups are expected to **arrive at least 5 minutes early**, fully ready to begin. This includes having your computer set up, charged, and any relevant materials open. Being ready to start on time helps keep the overall schedule running smoothly for everyone.
+
+### Assigned Time Slots and Punctuality
+Each group has a designated PUM time slot, which will remain consistent throughout the semester unless you are notified otherwise by the course instructor or your project TA.  
+
+All groups must attend during their assigned time.
+
+> [!NOTE]
+> Punctuality is important. Late arrivals will be recorded and count against your participation grade. As a reminder, maintaining attendance in both lectures and PUMs is a passing criterion for the course.
+
+### Client Attendance
+In some weeks, your project client may attend the PUMs. When this happens, the client meeting will typically take place during the first ~30 minutes. The remaining PUMs will then run on a reduced schedule, usually 15–20 minutes per group, to accommodate the time spent with the client.
+
+For example:
+- 5:30–6:00 pm: Client meeting  
+- Remaining groups: 15–20 minute PUMs each, depending on time available
+
+### Use of Remaining Class Time
+Since individual PUMs will take no more than 30 minutes, the remaining hour of class time is expected to be used for team meetings and project work. Because everyone is already registered and present for the course, this time should be treated as your default weekly team meeting time.
+
+### PUM Format
+Regular PUMs will follow a **stand-up format**, focusing on:
+- What you have completed since last week  
+- What you plan to work on before next week  
+- Any blockers or challenges you are facing  
+
+There will also be time for **questions and discussion with your TA**.
+
+PUMs will also provide a structured space to:
 - Share progress updates
 - Run live demos
 - Ask questions and receive feedback
 - Participate in short viva voce style check-ins
 - Identify and address issues early
 
-> [!NOTE]
-> In-person attendance is required for all group members at every PUM.
+### Attendance Expectations
+PUMs take place during scheduled class time, therefore **all students are required to attend**. Please refer to the **absence policy below** for details on how missed PUMs are handled.
 
 To support flexibility while maintaining accountability, each student may:
 - Miss **one** PUM during the semester
