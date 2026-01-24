@@ -1,36 +1,121 @@
 # AI-usage Course Policy
 
-## Policy on the Use of AI Content Generators for Coursework.
+This course is designed to reflect real-world software engineering. In practice, teams use AI tools, but they do so with clear expectations around **ownership, safety, and professionalism**. This policy is meant to help you use AI in a way that supports your learning and protects your team, your client, and your project.
 
-As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CPSC 100 - Computational Thinking in Winter 2024, Term 2.
+## Client policy comes first
 
-In a nutshell, the use of AI tools is permitted for all course content including assignments, weekly activities and project work except exams. Using tools such as ChatGPT will not be allowed during in-person midterm exam. As part of the course policy, students are required to disclose any use of AI tools for each assignment, weekly activities and project submission. Failure to follow this policy will be considered a violation of the university's academic policy.
+Each client project may have its own AI usage policy. **You are expected to ask your client (early) what they allow and then follow their guidance.** If the client’s expectations are stricter than this course policy, the client policy overrides.
 
-## We view AI tools as a powerful resource that you can learn to embrace.
+> [!IMPORTANT]
+> If a client says “no AI for X,” then it’s “no AI for X,” even if this course policy would normally allow it.
 
-The goal is to develop your resilience to automation, as these tools will become increasingly prevalent in the future. By incorporating these tools into your work process, you will be able to focus on skills that will remain relevant despite the rise of automation. Furthermore, we believe that these tools can be beneficial for students that consider English as their second and those who have been disadvantaged, allowing them to express their ideas in a more articulate and efficient manner.
+## AI-focused projects
 
-## We are aware that there are risks involved in allowing the use of AI tools in your deliverables.
+Some projects are entirely AI-based. If you are assigned to one of these projects, **using and developing AI solutions is expected and required** as part of the work.
 
-Therefore, we ask that you read this carefully and use the tools responsibly. 
+If you are not comfortable with this, you should **contact the course instructor as early as possible** so we can discuss options.
 
-Firstly, it is important to note that AI tools are susceptible to errors and may incorporate discriminatory ideas in their output. As a student, **it is your responsibility to ensure the quality and appropriateness of the work you submit in this course**.
+## What AI use is acceptable in this course
 
-Secondly, please be mindful of the data you provide to these systems, as your assignments, weekly activities, projects may contain private information, not just your own but also that of others. For example, you should never enter the names of your project team members or the individuals who are peer reviewing, into ChatGPT. 
+AI is allowed when it supports your work without replacing your understanding or accountability.
 
-Thirdly, there is a **risk of inadvertently plagiarizing** when using these tools. Many AI chatbots and image generators create content based on existing bodies of work without proper citation. In addition, other students may use these tools to generate content that is similar to yours. Therefore, it is important to **cite your sources** and **use the tools responsibly**. **Our plagiarism policy will apply to all assignment, weekly activities and project submissions, and "AI did it!" will not excuse any plagiarism**. 
+### Generally acceptable uses
 
-Lastly, be aware of the dangers of becoming overly dependent on these tools. While they can be incredibly useful, relying on them too much can diminish your own critical thinking and writing skills.
+- **Learning and understanding**
+  - Asking for explanations of concepts, APIs, errors, or code you are reading
+  - Using AI like a “rubber duck” to think through approaches
 
-## For every submission, you are required to complete a form called the "AI use disclosure." 
+- **Brainstorming and design support**
+  - Generating options for features, UX ideas, architecture alternatives, or risks
+  - Comparing tools and libraries (you still need to validate with sources and your own testing)
 
-Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. You will be asked to submit the disclosure via MS Forms. Failure to submit the disclosure will be considered a violation of the university's academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
+- **Debugging and testing support**
+  - Asking for debugging hypotheses, steps to reproduce, or potential root causes
+  - Drafting test plan outlines or example test cases, then refining and validating
 
-## Audits of AI Disclosure Forms and Student Work
+- **Writing support**
+  - Proofreading for grammar and clarity
+  - Formatting help (tables, Markdown, LaTeX, slide structure)
 
-To uphold the integrity of coursework, the teaching team will conduct regular audits of random students’ AI use disclosure forms throughout the semester. These audits will involve scheduled interviews where students will discuss their use of AI tools in assignments, activities, and projects. Additionally, the teaching team will cross-reference the submitted work with the details provided in the disclosure forms.
+## What AI use is not acceptable
 
-If any inconsistencies are found between the disclosed AI usage and the actual content of the work, the student may be asked to provide further clarification. Persistent discrepancies or failure to provide a satisfactory explanation could lead to a review for potential academic integrity violations. These audits will be conducted continuously to ensure transparency and adherence to the AI usage policy, fostering a fair academic environment for all students.
+AI is not allowed when it undermines learning, ownership, integrity, or safety.
+
+### Unacceptable uses
+
+- **“Vibe coding” or shipping code you don’t understand**
+  - Copy/pasting code into your repo without being able to explain it
+  - Merging AI-generated changes that you did not review carefully
+
+- **Uncredited AI use**
+  - Using AI in written reports, presentations, or README content without a disclosure statement (see below)
+
+- **Sensitive or private information**
+  - Uploading or pasting client confidential information, proprietary code, personal data, secrets, tokens, API keys, `.env` contents, credentials, or internal documents into AI tools
+
+- **Letting AI make decisions for you**
+  - Using AI to choose your architecture, requirements, or scope without your team being able to justify those choices
+
+> [!WARNING]
+> If you share secrets (tokens, keys, environment variables) with an AI tool, treat that as a security incident. Rotate the secret immediately and tell your TA.
+
+## The standard: you own what you submit
+
+No matter what tools you use, you are responsible for what you submit and deploy.
+
+If AI contributes to code, you should be able to answer questions like:
+- What does this code do, at a high level?
+- Why is it correct and safe?
+- What tests did we run to confirm it?
+- What are the risks or tradeoffs?
+
+A good rule: **If you can’t explain it, don’t ship it.**
+
+## Required AI disclosure statements
+
+All written reports, presentations, and your code repository README **must include an AI disclosure statement**. This is required even if the answer is “no AI was used.”
+
+Put it somewhere visible:
+- Reports: near the end, or in a short “AI Use” section
+- Presentations: final slide or speaker notes
+- README: near the top or in a dedicated “AI Use” section
+
+### Copy/paste templates
+
+**Option A, no AI used**
+> **AI Use Disclosure:** No generative AI tools were used to produce this submission.
+
+**Option B, writing support only**
+> **AI Use Disclosure:** Generative AI tools were used for proofreading and clarity edits. All technical content and decisions are our own.
+
+**Option C, brainstorming and learning**
+> **AI Use Disclosure:** Generative AI tools were used for brainstorming and to support learning (concept explanations, alternative approaches). Final decisions were made by the team and validated through implementation and testing.
+
+**Option D, code support with verification**
+> **AI Use Disclosure:** Generative AI tools were used to suggest code snippets and debugging ideas. The team reviewed all output, adapted it to our codebase, and validated it through testing and code review.
+
+**Option E, AI-focused project**
+> **AI Use Disclosure:** This is an AI-based project. Generative AI tools are used as part of the solution development, along with human review, testing, and documentation of design decisions.
+
+> [!TIP]
+> Keep your disclosure short, but specific. A good disclosure says how AI was used, not just that it was used.
+
+## Disclosure enforcement and grade impact
+
+Disclosures are required.
+
+- **First missing disclosure:** You will receive a warning (no grade penalty).
+- **After the first warning:** Any future submission missing the required disclosure will receive a **10% deduction** for that submission.
+
+This applies to reports, presentations, and the repository README.
+
+## If you’re unsure
+
+If you are not sure whether something is allowed, ask your TA early. When in doubt, default to:
+1) don’t share sensitive info  
+2) don’t ship what you don’t understand  
+3) disclose your use
+
 
 ## If you do not wish to use these tools, that is a valid decision.
 
@@ -42,8 +127,4 @@ Grading will be done based on the rubric on an absolute scale, the use of AI too
 
 **Please note that the policy about the use of AI tools in this course is up for change as the term progresses. Changes will be communicated in-class and via this page.**
 
-Questions about this policy can be directed to the instructors via email with the following email header: _[CPSC 100 - AI Policy]_.
-
-### Acknowledgements
-
-This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) and refined through the feedback of students from multiple courses at UBC, SFU and Northeastern University. 
+Questions about this policy can be directed to the instructors via email with the following email header: _[CPSC 319 - AI Policy]_.

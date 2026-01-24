@@ -200,7 +200,7 @@ By remaining enrolled in this course, students agree to uphold these expectation
 
 ### Artificial Intelligence (AI) Use Policy
 
-A course-specific AI use policy will be drafted based on an in-class activity during the first week of classes and shared with all students prior to the add/drop deadline.  
+[AI-usage Course Policy](ai-policy.md)
 
 ### Extreme Weather - Course Policy
 
